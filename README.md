@@ -13,3 +13,19 @@ Developed the web application using streamlit. When creating the web application
 **keras**:- used for load the model to the streamlit python file, 
 **firebase_admin**:- is a Python SDK provided by Firebase for interacting with Firebase services from server-side environments. and streamlit session will be used. Cascade style sheets was to be used. Streamlit icons also was to be used
 
+
+
+
+
+**User manual**
+1.	install python verion(>3.7) in your pc.
+2.	install git/ git bash and open your command prompt and type this command 
+‘git clone https://github.com/Nilupul19/Stock-Market-PP-App.git’
+3.	then, type this command ‘cd Stock-Market-PP-App’ to go to the project directory
+4.	to open the project directory is VS code type this command ‘code .’
+5.	after it opened in VS code, to get the a terminal press ctrl+shift+` at the same time.
+6.	 Type this command to install all the packages
+ ‘pip install streamlit tensorflow keras streamlit_option_menu yfinance firebase_admin pandas numpy matplotlib ’
+7.	To run the project type this command ‘python -m streamlit run main.py’.need to connected with the internet to run this project successfully. Default dashboard will be opened in new tab on your web browser.
+
+
